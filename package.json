@@ -1,0 +1,30 @@
+{
+  "name": "cloudsbysunil",
+  "version": "1.0.0",
+  "description": "Company Website",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DSunilDev/company_website.git"
+  },
+  "keywords": [
+    "For",
+    "Marketing"
+  ],
+  "author": "Sunilkumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DSunilDev/company_website/issues"
+  },
+  "homepage": "https://github.com/DSunilDev/company_website#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}
